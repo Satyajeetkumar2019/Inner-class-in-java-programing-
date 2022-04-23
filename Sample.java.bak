@@ -1,0 +1,9 @@
+class Sample { 
+
+	public static void main(String[] args) {
+	
+System.out.println(""+Example5.A.x);
+
+		System.out.println("Hello World!");
+	}//end mmm
+}//end class 

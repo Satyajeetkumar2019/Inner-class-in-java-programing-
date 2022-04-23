@@ -1,0 +1,21 @@
+class Example8 { 
+
+void m1(){
+
+//final class A {
+//public  class A {//CE
+//abstract class A {
+	strictfp class A {
+//static int p=19;
+}
+
+
+}
+
+
+
+	public static void main(String[] args) {
+	
+		System.out.println("Hello World!");
+	}//end mm
+}//end class
